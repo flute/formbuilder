@@ -4,4 +4,4 @@
 > 新增类型：
 > - 1.手机
 > - 2.性别
-> 感谢https://github.com/dobtco/formbuilder
+-- 感谢https://github.com/dobtco/formbuilder
